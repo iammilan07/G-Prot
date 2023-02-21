@@ -10,7 +10,7 @@ export const homeObjTwo = {
     "Currently working as a software developer in Nepal and developing Web-Application as per business needs of clients.",
   buttonLabel: "Go ON...!",
   imgStart: false,
-  img: require("../../images/rh2.jpeg").default,
+  img: require("../../images/milan.jpg").default,
   alt: "error404",
   dark: false,
   primary: false,
