@@ -40,9 +40,9 @@ const Services = () => {
           </ServicesCard>
           <ServicesCard>
             <ServicesIcon src={Icon3} />
-            <ServicesH2>Mobile fiendly Web app</ServicesH2>
+            <ServicesH2>DevOps Technique</ServicesH2>
             <ServicesP>
-              Developing web application which can be used on all devices
+              Implementing DevOps in the project and making it automate inorder to lunch new features in rapid way
             </ServicesP>
           </ServicesCard>
           <ServicesCard>
